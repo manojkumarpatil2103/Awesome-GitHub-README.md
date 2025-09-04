@@ -61,15 +61,6 @@
 
 ---
 
-## 🏆 Certifications  
-- Ethereum Blockchain Developer Bootcamp (2025)  
-- Full Stack Development – KodNest Pvt. Ltd (2024)  
-- Programming in Java – NPTEL (2022)  
-- Blockchain & Cyber Security – ShriTEK Innovations (2023)  
-- Cloud Computing with DevOps – ShriTEK Innovations (2023)  
-
----
-
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-patil-b96875202/) <br/> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manojkumarpatil2103.github.io/)  
