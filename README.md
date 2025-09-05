@@ -20,7 +20,7 @@
 - 🎓 **Computer Science Graduate**  
 - 🔗 Skilled in **Ethereum, Solidity, Smart Contract Security Auditor, Chainlink, Zero- Knowledge, Web3.js, ethers.js**  
 - 🌐 Full-Stack: **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**  
-- 🛠️ Familiar with **Truffle, Hardhat, Foundry, metamask**  
+- 🛠️ Familiar with **Truffle, Hardhat, Foundry**  
 - 📚 Certified in **Ethereum Blockchain Development, Java Full-Stack Development**  
 - 🎯 Mission: To build **secure, scalable, and impactful decentralized applications (DApps)**  
 
