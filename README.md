@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 **Computer Science Graduate**  
-- 🔗 Skilled in **Ethereum, Solidity, Smart Contract Security Auditor, Chainlink, Zero- Knowledge, Web3.js, ethers.js**  
+- 🔗 Skilled in **Ethereum, Solidity, Smart Contract Security Auditor, Chainlink, Zero- Knowledge, Web3.js, ethers.js, wagami**  
 - 🌐 Full-Stack: **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**  
 - 🛠️ Familiar with **Truffle, Hardhat, Foundry**  
 - 📚 Certified in **Ethereum Blockchain Development, Java Full-Stack Development**  
