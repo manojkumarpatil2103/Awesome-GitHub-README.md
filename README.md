@@ -51,14 +51,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
 
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkumarpatil2103&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarpatil2103&theme=radical" alt="GitHub Streak" height="170"/>
-</p>
-
 ---
 
 ## 🌍 Connect with Me  
